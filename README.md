@@ -1,3 +1,1 @@
-# profile
-#sudo cp /path/index.html /var/www/eekanem.com
-#sudo cp /path/eekanem.com.conf /etc/apache2/sites-available
+# hello this is a git repository for my personal profile
